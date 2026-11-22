@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="746" viewBox="0 0 1000 746" role="img">
+<title>4 Шаг корректора UML Activity</title>
+<defs>
+ <marker id="block" markerWidth="9" markerHeight="8" viewBox="0 0 9 8" refX="8.8" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+   <path d="M0,0 L9,4 L0,8 Z" fill="#191919"/>
+ </marker>
+ <marker id="open" markerWidth="9" markerHeight="8" viewBox="0 0 9 8" refX="8.5" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+   <path d="M0,0 L9,4 L0,8" fill="none" stroke="#191919" stroke-width="1.2"/>
+ </marker>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<polyline points="500,34 500,52" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="500,104 500,124" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="307.5,165 223,165 223,244" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="692.5,165 777,165 777,244" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="223,305 223,344 487,344" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="777,305 777,344 513,344" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="500,357 500,383" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="307,425 223,425 223,505" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="693,425 777,425 777,505" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="223,566 223,602 487,602" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="777,566 777,602 513,602" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="500,615 500,640" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<polyline points="500,693 500,711" fill="none" stroke="#191919" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#block)"/>
+<ellipse cx="500.0" cy="25.0" rx="9.0" ry="9.0" fill="#191919" stroke="#191919" stroke-width="1.6"/>
+<rect x="292.0" y="52" width="416" height="52" rx="5" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<polygon points="500.0,124.0 692.5,165.0 500.0,206.0 307.5,165.0" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<rect x="57.5" y="244" width="331" height="61" rx="5" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<rect x="611.5" y="244" width="331" height="61" rx="5" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<polygon points="500.0,331.0 513.0,344.0 500.0,357.0 487.0,344.0" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<polygon points="500.0,383.0 693.0,425.0 500.0,467.0 307.0,425.0" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<rect x="57.5" y="505" width="331" height="61" rx="5" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<rect x="611.5" y="505" width="331" height="61" rx="5" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<polygon points="500.0,589.0 513.0,602.0 500.0,615.0 487.0,602.0" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<rect x="290.0" y="640" width="420" height="53" rx="5" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<ellipse cx="500.0" cy="723.0" rx="12.0" ry="12.0" fill="#FFFFFF" stroke="#191919" stroke-width="1.6"/>
+<ellipse cx="500.0" cy="723.0" rx="7.0" ry="7.0" fill="#191919"/>
+<text x="500" y="85.48" text-anchor="middle" font-size="22" font-weight="400" fill="#191919">Получить отсчёт и доступную оптику</text>
+<text x="500" y="159.12" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">Есть новая</text>
+<text x="500" y="185.16" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">пригодная пара?</text>
+<text x="223" y="268.34" text-anchor="middle" font-size="22" font-weight="400" fill="#191919">Определить вес</text>
+<text x="223" y="295.62" text-anchor="middle" font-size="22" font-weight="400" fill="#191919">и обновить цель</text>
+<text x="777" y="268.34" text-anchor="middle" font-size="22" font-weight="400" fill="#191919">Сохранить</text>
+<text x="777" y="295.62" text-anchor="middle" font-size="22" font-weight="400" fill="#191919">предыдущую цель</text>
+<text x="500" y="419.12" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">Оптика актуальна?</text>
+<text x="500" y="445.16" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">Возраст ≤ 200 мс</text>
+<text x="223" y="529.62" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">Приблизить поправку к цели</text>
+<text x="223" y="555.66" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">с ограничением скорости</text>
+<text x="777" y="529.62" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">Удержать поправку</text>
+<text x="777" y="555.66" text-anchor="middle" font-size="21" font-weight="400" fill="#191919">и отметить потерю оптики</text>
+<text x="500" y="672.96" text-anchor="middle" font-size="19" font-weight="400" fill="#191919">Выдать исправленную ориентацию и статус</text>
+<text x="242" y="216.46" text-anchor="start" font-size="19" font-weight="400" fill="#191919">[да]</text>
+<text x="794" y="216.46" text-anchor="start" font-size="19" font-weight="400" fill="#191919">[нет]</text>
+<text x="242" y="478.46" text-anchor="start" font-size="19" font-weight="400" fill="#191919">[да]</text>
+<text x="794" y="478.46" text-anchor="start" font-size="19" font-weight="400" fill="#191919">[нет]</text>
+</g>
+</svg>
